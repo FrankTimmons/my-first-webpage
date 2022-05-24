@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+  color: darkslategray;
+  line-height: normal;
+  font-weight: bolder;
+}
+li {
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  color: chocolate;
+}
